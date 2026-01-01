@@ -1,0 +1,17 @@
+Sector,GDP_Share_%,Employment_Share_%,Growth_Trend
+Agriculture,14.5,44.0,Stable
+Manufacturing,17.0,12.0,Moderate
+Construction,8.0,12.5,High
+Mining,2.5,1.0,Moderate
+Electricity & Utilities,2.5,0.5,High
+Trade & Transport,18.5,12.0,High
+Financial Services,7.0,0.8,Moderate
+Real Estate & Business Services,7.0,2.0,High
+Public Administration,6.0,4.0,Stable
+IT Services,8.0,3.5,High
+Healthcare,3.0,2.0,High
+Education,3.0,4.0,Moderate
+Logistics,5.0,2.0,High
+Retail & E-commerce,5.0,6.0,High
+Green Energy,1.0,0.3,Very High
+Emerging Tech,0.5,0.2,Very High
